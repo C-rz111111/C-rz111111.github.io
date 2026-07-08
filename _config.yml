@@ -3,7 +3,7 @@ title: 水鸟的博客
 SEOTitle: 水鸟的博客 | 北方水鸟
 header-img: https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAEW1fpqTjXaTB3R5dG5pAn2f5xM7ziQxgAC2B0AAuHeeVata-d6NLHcyzwE.jpeg
 email: 
-description: "为了一个早就被许诺的新世界"
+description: "为了一个被许诺的新世界"
 keyword: "北方水鸟, 水鸟的博客, 新世界, 思考, 马克思主义"
 url: "https://C-rz111111.github.io"
 baseurl: ""
@@ -59,7 +59,7 @@ netease_comment: false
 
 # Sidebar settings
 sidebar: true
-sidebar-about-description: "为了一个早就被许诺的新世界"
+sidebar-about-description: "为了一个被许诺的新世界"
 sidebar-avatar: https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAEW1eZqTjSqDv-4UI-bMwiHWUqLiwFJOwACux0AAuHeeVa-S4m0dpb5YDwE.jpg
 
 # Featured Tags
